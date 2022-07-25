@@ -5,12 +5,12 @@
 
 - 🔭 I’m currently working on 
 
-|                   [Shoes In Stock](https://github.com/Jscorz/Next-Tailwind-E-Store)                  |                       Shoes In Stock                     |
+|                   [Shoes In Stock](https://github.com/Jscorz/Next-Tailwind-E-Store)                  |                       [Portfolio](https://github.com/Jscorz/Gatsby-Strapi-Portfolio-Website)                      |
 | :-----------------------------------------: | :------------------------------------------------: |
-| ![screen-gif](ezgif.com-gif-maker.gif) | ![screen-gif](ezgif.com-gif-maker.gif) |
-|                   Shoes In Stock                  |                       Shoes In Stock                     |
+| ![screen-gif](ezgif.com-gif-maker.gif) | ![screen-gif](ezgif.com-gif-portfolio.gif) |
+|                   [Free Gamer](https://github.com/Jscorz/Gatsby-Free-To-Game-App)                 |                       [Meals 2 U](https://github.com/Jscorz/React-Food-Delivery-App)                   |
 | :-----------------------------------------: | :------------------------------------------------: |
-| ![screen-gif](ezgif.com-gif-maker.gif) | ![screen-gif](ezgif.com-gif-maker.gif) |
+| ![screen-gif](ezgif.com-gif-freegamer.gif) | ![screen-gif](ezgif.com-gif-meals2u.gif) |
 
 - 👨‍💻 All of my projects are available at [https://www.justinscorzafava.com](https://www.justinscorzafava.com)
 
