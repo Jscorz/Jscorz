@@ -3,8 +3,14 @@
 <h1 align="center">Hi 👋, I'm Justin Scorzafava</h1>
 <h3 align="center">A passionate frontend developer from New Mexico</h3>
 
-- 🔭 I’m currently working on [Shoes In Stock](https://github.com/Jscorz/Next-Tailwind-E-Store)
-- ![screen-gif](ezgif.com-gif-maker.gif)![screen-gif](ezgif.com-gif-maker.gif)
+- 🔭 I’m currently working on 
+
+|                   [Shoes In Stock](https://github.com/Jscorz/Next-Tailwind-E-Store)                  |                       Shoes In Stock                     |
+| :-----------------------------------------: | :------------------------------------------------: |
+| ![screen-gif](ezgif.com-gif-maker.gif) | ![screen-gif](ezgif.com-gif-maker.gif) |
+|                   Shoes In Stock                  |                       Shoes In Stock                     |
+| :-----------------------------------------: | :------------------------------------------------: |
+| ![screen-gif](ezgif.com-gif-maker.gif) | ![screen-gif](ezgif.com-gif-maker.gif) |
 
 - 👨‍💻 All of my projects are available at [https://www.justinscorzafava.com](https://www.justinscorzafava.com)
 
