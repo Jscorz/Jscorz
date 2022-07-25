@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Justin Scorzafava</h1>
 <h3 align="center">A passionate frontend developer from New Mexico</h3>
 
-- 🔭 I’m currently working on 
+<h3 align="center">Check out some of my applications</h3>
 
 |                   [Shoes In Stock](https://github.com/Jscorz/Next-Tailwind-E-Store)                  |                       [Portfolio](https://github.com/Jscorz/Gatsby-Strapi-Portfolio-Website)                      |
 | :-----------------------------------------: | :------------------------------------------------: |
@@ -12,7 +12,7 @@
 | :-----------------------------------------: | :------------------------------------------------: |
 | ![screen-gif](ezgif.com-gif-freegamer.gif) | ![screen-gif](ezgif.com-gif-meals2u.gif) |
 
-- 👨‍💻 All of my projects are available at [https://www.justinscorzafava.com](https://www.justinscorzafava.com)
+- 👨‍💻 My projects are available at [https://www.justinscorzafava.com](https://www.justinscorzafava.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
