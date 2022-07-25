@@ -1,4 +1,4 @@
-![](https://github.com/Jscorz/Jscorz/blob/main/Custom%20dimensions%201680x500%20px.jpeg)
+![](https://github.com/Jscorz/Jscorz/blob/main/Custom%20dimensions%201600x500%20px.jpeg)
 
 <h1 align="center">Hi 👋, I'm Justin Scorzafava</h1>
 <h3 align="center">A passionate frontend developer from New Mexico</h3>
