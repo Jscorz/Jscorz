@@ -7,7 +7,7 @@
 
 |                   [Shoes In Stock](https://github.com/Jscorz/Next-Tailwind-E-Store)                  |                       [Portfolio](https://github.com/Jscorz/Gatsby-Strapi-Portfolio-Website)                      |
 | :-----------------------------------------: | :------------------------------------------------: |
-| ![screen-gif](ezgif.com-gif-shoes-in-stock.gif) | ![screen-gif](ezgif.com-gif-portfolio.gif) |
+| ![screen-gif](ezgif.com-gif-maker-shoes-in-stock.gif) | ![screen-gif](ezgif.com-gif-portfolio.gif) |
 |                   [Free Gamer](https://github.com/Jscorz/Gatsby-Free-To-Game-App)                 |                       [Meals 2 U](https://github.com/Jscorz/React-Food-Delivery-App)                   |
 |  |  |
 | ![screen-gif](ezgif.com-gif-freegamer.gif) | ![screen-gif](ezgif.com-gif-meals2u.gif) |
