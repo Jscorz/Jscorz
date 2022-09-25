@@ -5,7 +5,7 @@
 
 <h3 align="center">Check out some of my applications</h3>
 
-|                   [Shoes In Stock](https://github.com/Jscorz/Next-Tailwind-E-Store)                  |                       [Reps Logger](https://github.com/Jscorz/Gatsby-Strapi-Portfolio-Website)                      |
+|                   [Shoes In Stock](https://github.com/Jscorz/Next-Tailwind-E-Store)                  |                       [Reps Logger](https://github.com/Jscorz/MERN-Workout-Tracker)                      |
 | :-----------------------------------------: | :------------------------------------------------: |
 | ![screen-gif](ezgif.com-gif-maker-sis-store.gif) | ![screen-gif](ezgif.com-workout-tracker.gif) |
 |                   [Free Gamer](https://github.com/Jscorz/Gatsby-Free-To-Game-App)                 |                       [Meals 2 U](https://github.com/Jscorz/React-Food-Delivery-App)                   |
