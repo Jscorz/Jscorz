@@ -7,7 +7,7 @@
 
 |                   [Shoes In Stock](https://github.com/Jscorz/Next-Tailwind-E-Store)                  |                       [Reps Logger](https://github.com/Jscorz/MERN-Workout-Tracker)                      |
 | :-----------------------------------------: | :------------------------------------------------: |
-| ![screen-gif](ezgif.com-gif-maker-sis-store.gif) | ![screen-gif](ezgif.com-gif-workout-tracker.gif) |
+| ![screen-gif](ezgif.com-gif-maker-sis-store.gif) | ![screen-gif](ezgif.com-gif-workout-tracker-2.gif) |
 |                   [Free Gamer](https://github.com/Jscorz/Gatsby-Free-To-Game-App)                 |                       [Meals 2 U](https://github.com/Jscorz/React-Food-Delivery-App)                   |
 |  |  |
 | ![screen-gif](ezgif.com-gif-freegamer.gif) | ![screen-gif](ezgif.com-gif-meals2u.gif) |
